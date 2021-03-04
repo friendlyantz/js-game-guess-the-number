@@ -2,3 +2,9 @@
 
 https://friendlyantz.github.io/js-game-guess-the-number/
 
+
+## local server
+install live-server
+
+then
+ ` live-server`
