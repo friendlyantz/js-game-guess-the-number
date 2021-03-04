@@ -1,4 +1,4 @@
 # js-game-guess-the-number
 
-refer GitHub pages on the right4
+https://friendlyantz.github.io/js-game-guess-the-number/
 
